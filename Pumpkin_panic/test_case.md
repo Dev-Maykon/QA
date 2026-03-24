@@ -24,73 +24,74 @@ Found Issues: No issues present
 
 Comments:
 
-/*=============Game title===============*/
-
-Gameplay:
-
-Key
-
-Summary
-
-Status: To do
-
-Found Issues: No issues present
-
-Comments
-/*=============Game title===============*/
-
-Interaction:
+/*=============bottons===============*/
 
 Key: "F" to interact and "space" to put water.
 Mouse scroll to move the camera.
 "ASWD" to move.
 "R" to equip the lantern
 
-Summary: Check that the game and interactions are working.
+Summary: What are the all bottons in the game.
 
-Status: 
+Status: Pass
 
 Found Issues: No issues present
 
-Comments
+Comments:
 
-/*=============Game title===============*/
+/*=============Interaction===============*/
 
-Animations:
 
-Key
+Key: "F" and "space"
+
+Summary: Check that the game and interactions are working.
+
+Status: Pass
+
+Found Issues: No issues present
+
+Comments:
+
+/*=============Animations===============*/
+
+Pumpkin: ok
+Monsters: ok
+kill animation: ok
+Iteractions: ok
+UI: ok
 
 Summary
 
-Status
+Status: ok
 
-Found Issues
+Found Issues: No issues present
 
-Comments
-/*=============Game title===============*/
+Comments:
 
-Monsters:
-Monster one: 
-Shadow: Spawn after stay home for one minute.
+/*=============Monsters===============*/
 
+Crawler: Run to your direction when a violin song start (cannot enter to house).
+Shadow: Spawn after stay home for one minute (cannot leave from house).
+Happy crown: Need to found him.
+Sad crown: Need to found a balon to him.
 Summary: All monster are hitkill
 
 Status: To do
 
 Found Issues: No issues presents
 
-Comments
+Comments:
 
-/*=============Game title===============*/
+/*=============Upgrades===============*/
 
-Interaction:
+Interaction: Test if you can do a upgrade with all requisitions
 
-Key
+Table and others: ok
+Itens in the map: ok
+Keys: ok
 
-Summary
-
-Status
+Status: to do
 
 Found Issues
 
-Comments
+Comments:
